@@ -1,0 +1,22 @@
+{
+  "name": "dir",
+  "version": "1.0.0",
+  "description": "This is elearning repos for aws service trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohitKumbhar1/elearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohitKumbhar1/elearning/issues"
+  },
+  "homepage": "https://github.com/RohitKumbhar1/elearning#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
